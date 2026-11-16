@@ -66,4 +66,7 @@ acc1.withdraw(3000)
 
 acc2.withdraw(4000)  # পর্যাপ্ত টাকা না থাকায় এরর মেসেজ দেখাবে
 
-
+#Output:
+#Rahim deposited 1500 BDT. New balance: 6500 BDT
+#Rahim withdrew 3000 BDT. Remaining balance: 3500 BDT
+#Sorry Karim, insufficient balance!
