@@ -45,6 +45,8 @@ print(content1)
 
 
 
+
+
 ##File handling with context manager (alada kore file close korte hoyna)
 with open(r"D:\Ostad\Code\Practice(2nd november class)\test.txt", "r") as file:
     content2 = file.read()
@@ -56,4 +58,4 @@ with open(r"D:\Ostad\Code\Practice(2nd november class)\test.txt", "r") as file:
 #Added successfully
 
 ##End of File introduction"
-
+#
